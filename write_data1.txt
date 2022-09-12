@@ -1,0 +1,3 @@
+There are different ways to flatten a list of lists.
+Straightforward way is to run two nested loops – outer loop gives one sublist of lists, and inner loop gives one element of sublist at a time.
+Each element is appended to flat list object.
